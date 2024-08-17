@@ -1,0 +1,10 @@
+streamlit 
+python-dotenv
+PyPDF2 
+streamlit-extras 
+langchain 
+spacy 
+openai 
+faiss-cpu
+tiktoken
+langchain-community
